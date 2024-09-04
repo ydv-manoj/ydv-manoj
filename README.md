@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working at **TerraDX Technologies** as a Web Developer
+- 🔭 I’m currently working at **TerraDX Technologies** as Web Developer
 
 - 🌱 I’m currently learning **GO,ML**
 
