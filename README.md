@@ -74,16 +74,6 @@
 - User authentication using Passport.js with sorting capabilities
 - 99.9% uptime hosted on Vercel
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting collaborations and opportunities. Feel free to reach out!
