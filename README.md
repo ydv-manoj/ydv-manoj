@@ -57,23 +57,6 @@
   
 </div>
 
-## 🏆 Featured Projects
-
-### DERIBIT CRYPTOCURRENCY TRADING BOT
-- High-performance C++ trading system for Deribit exchange
-- Sub-millisecond order execution with real-time market data processing
-- Optimized buffer pooling handling 10,000+ messages/second
-
-### [WORKSPACE](https://github.com/manoj/workspace)
-- Project Management tool built with React and Firebase
-- Seamless task management, assignment, and tracking
-- 40% increase in team productivity with real-time updates
-
-### [ADVANCED YELP-CAMP](https://github.com/manoj/yelp-camp)
-- Interactive campground discovery platform with Google Maps integration
-- User authentication using Passport.js with sorting capabilities
-- 99.9% uptime hosted on Vercel
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting collaborations and opportunities. Feel free to reach out!
