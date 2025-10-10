@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working as a **Web Developer at TerraDX Technologies**
+- 🔭 Currently working as a **Software Engineer at Instead**
 - 🎓 B.Tech in **Mathematics and Computing Engineering** from Delhi Technological University
 - 🌱 Exploring **LLMs** and **Machine Learning**
 - 🚀 Building data-driven applications with a focus on scalability and performance
