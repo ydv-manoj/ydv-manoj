@@ -22,16 +22,6 @@
 - 🎓 B.Tech in **Mathematics and Computing** from Delhi Technological University
 - 💬 Ask me about **agents, tool calling, evals, RAG, Temporal and Go**
 
-## 🚀 What I've Built
-
-| | Project | What it does |
-|---|---|---|
-| 🧾 | **[TaxOps Agent](https://github.com/ydv-manoj/taxops-agent)** | Fine-tuned a 3.35B model (LoRA) to file tax returns through 6 tools: **0% → 93.3%** on 300 held-out cases, with **6x fewer wasted calls** than Claude Sonnet on unseen decoys. [Write-up](https://huggingface.co/blog/Manoj2142/taxops-efficient-tool-agent) · [Model](https://huggingface.co/Manoj2142/taxops-tinyaya-sft-v6) · [Demo](https://huggingface.co/spaces/Manoj2142/taxops-replay) |
-| 🩹 | **[I Hate Corrupt Files](https://ihatecorruptfiles.xyz)** | Live service + public API that repairs damaged Office files: recovers **81%** of content vs **53%** for Microsoft Office's own repair, zero false alarms on 5,342 real workbooks |
-| 🎧 | **[Support Agent](https://github.com/ydv-manoj/maxify-helpdesk)** | Customer-support agent with policy enforced in its tools, a live human-in-the-loop desk, full audit log and offline evals |
-| 🌐 | **[Web Browser Query Agent](https://github.com/ydv-manoj/Web-Browser-Query-Agent)** | Gemini search + summarisation agent with Playwright scraping and a two-layer semantic cache in ChromaDB |
-| 📄 | **[API Documenter](https://github.com/ydv-manoj/API-Documenter)** | CLI that scans a codebase and generates interactive Swagger docs |
-
 ## 🛠️ Tech Stack
 
 <div align="center">
